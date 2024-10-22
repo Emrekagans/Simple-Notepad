@@ -1,0 +1,3 @@
+This is a simple Notepad application based on Python.
+It saves the notes you want for you and is very simple to use.
+Emre Kaan Zorkul - I hope you like it...
